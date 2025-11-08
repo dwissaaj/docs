@@ -1,9 +1,9 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Rustveil Docs",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#f19ed2",
     "light": "#07C983",
     "dark": "#15803D"
   },
@@ -66,18 +66,47 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Errors Code",
+        "groups": [
+          {
+            "group": "Errors Code",
+            "pages": [
+              "errors-code/introduction"
+            ]
+          },
+          {
+            "group": "Data Page",
+            "pages": [
+              "errors-code/data/error-code"
+            ]
+          },
+          {
+            "group": "Sentiment Analysis Page",
+            "pages": [
+              "errors-code/sen-analysis/error-code"
+            ]
+          },
+          {
+            "group": "SNA Page",
+            "pages": [
+              "errors-code/sna/error-code"
+            ]
+          }
+        ]
       }
     ],
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "anchor": "Github",
+          "href": "https://github.com/dwissaaj/rustveil",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "anchor": "Contribute",
+          "href": "mailto:dwisaji150@gmail.com",
           "icon": "newspaper"
         }
       ]
@@ -91,13 +120,13 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:dwisaji150@gmail.com"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Download",
+      "href": "https://github.com/dwissaaj/rustveil"
     }
   },
   "contextual": {
@@ -114,9 +143,9 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "github": "https://github.com/dwissaaj",
+      "linkedin": "https://www.linkedin.com/in/dwi-setyo-aji/"
     }
   }
 }
+
