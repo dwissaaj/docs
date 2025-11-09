@@ -23,42 +23,29 @@
           {
             "group": "How To Use",
             "pages": [
-              "how-to-use/first-comer"
+              "how-to-use/first-comer",
+              "how-to-use/know-fault"
             ]
           },
           {
             "group": "Under the Hood",
             "pages": [
-              "under-the-hood/crack-in-the-system"
+              "under-the-hood/crack-in-system"
             ]
           },
           {
-            "group": "NLP Core",
+            "group": "Unmasked NLP",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API reference",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
+              "unmasked-nlp/first-alinea"
             ]
           },
           {
-            "group": "Endpoint examples",
+            "group": "NLP Task Guide",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "nlp-task-guide/markdown",
+              "nlp-task-guide/code",
+              "nlp-task-guide/images",
+              "nlp-task-guide/reusable-snippets"
             ]
           }
         ]
