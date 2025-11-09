@@ -14,35 +14,31 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Behind the Veil",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "prelude",
+              "installation"
             ]
           },
           {
-            "group": "Customization",
+            "group": "How To Use",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "how-to-use/first-comer"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Under the Hood",
+            "pages": [
+              "under-the-hood/crack-in-the-system"
+            ]
+          },
+          {
+            "group": "NLP Core",
             "pages": [
               "essentials/markdown",
               "essentials/code",
               "essentials/images",
               "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
             ]
           }
         ]
@@ -71,25 +67,25 @@
         "tab": "Errors Code",
         "groups": [
           {
-            "group": "Errors Code",
+            "group": "Before You Panic",
             "pages": [
               "errors-code/introduction"
             ]
           },
           {
-            "group": "Data Page",
+            "group": "Data",
             "pages": [
               "errors-code/data/error-code"
             ]
           },
           {
-            "group": "Sentiment Analysis Page",
+            "group": "Sentiment Analysis",
             "pages": [
               "errors-code/sen-analysis/error-code"
             ]
           },
           {
-            "group": "SNA Page",
+            "group": "SNA",
             "pages": [
               "errors-code/sna/error-code"
             ]
